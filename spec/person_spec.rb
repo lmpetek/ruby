@@ -1,4 +1,5 @@
 require "minitest/autorun"
+require "./person.rb"
 
 describe "Person", "A simple person example" do
 
