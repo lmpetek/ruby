@@ -16,5 +16,5 @@ objetos, test y persistencia de datos.
 
 [Guía completa](http://lmpetek.github.io/ruby/)
 	
-autores: [Maximiliado Dello Russo](ar.linkedin.com/in/maxidr/)
+autores: [Maximiliado Dello Russo](ar.linkedin.com/in/maxidr/) y 
 		[Luis Petek](ar.linkedin.com/in/lmpetek/)
