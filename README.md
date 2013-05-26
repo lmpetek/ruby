@@ -16,10 +16,7 @@ objetos, test y persistencia de datos.
 
 
 
-
-
-
-
+	código ruby.rb
 
 
 autores : Maximiliado Dello Russo y Luis Petek
