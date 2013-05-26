@@ -1,19 +1,25 @@
-ruby
+Ruby
 ====
 
-ejemplos para el curso de ruby 1.9
+Ejemplos para el curso de ruby
 
-autores : Maximiliado Dello Russo y Luis Petek
 
-vision
+Visión
 documentar con ejemplos simples y reales las caracteristicas mas
 sobresalientes del lenguaje.
 
-mision
+Misión
 construir ejemplos desde un concepto básico, que parte de las
 posibilidades de interacción con el lenguaje por linea de comandos,
 hasta la construcción de soluciones mas complejas con abstraccion de
-objetos, test y persistencia de datos
+objetos, test y persistencia de datos.
 
-    <p>Gu&iacutea para el curso de Ruby</p>
 
+
+
+
+
+
+
+
+autores : Maximiliado Dello Russo y Luis Petek
