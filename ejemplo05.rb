@@ -1,4 +1,5 @@
 class Calc
-  def add
+  def add( uno, dos)
+  	uno + dos
   end
 end
