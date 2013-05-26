@@ -15,4 +15,5 @@ posibilidades de interacción con el lenguaje por linea de comandos,
 hasta la construcción de soluciones mas complejas con abstraccion de
 objetos, test y persistencia de datos
 
+    <p>Gu&iacutea para el curso de Ruby</p>
 
