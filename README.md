@@ -16,7 +16,7 @@ objetos, test y persistencia de datos.
 
 
 
-	código ruby.rb
+	Guía completa http://lmpetek.github.io/ruby/
 
 
 autores : Maximiliado Dello Russo y Luis Petek
